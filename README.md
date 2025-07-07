@@ -104,9 +104,9 @@
 4. Choose your routing profile (walking, cycling, driving).  
 5. Press “Calculate Route” to display the optimized path.  
 6. View turn-by-turn directions in the sidebar.  
-7. Export your route:  
-   - **GPX** button  
-   - **PDF** button  
+7. Export your route: 
+   - **GPX**   
+   - **PDF**  
 
 ---
 
