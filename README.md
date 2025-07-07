@@ -68,8 +68,7 @@
 - **PapaParse** – CSV parsing  
 - **html2pdf.js** – PDF export  
 - **togpx.js** – GPX conversion  
-- **vanilla-hCaptcha** – bot protection  
-- **goatcounter** – simple analytics  
+- **vanilla-hCaptcha** – bot protection    
 
 ---
 
@@ -85,7 +84,7 @@
 1. Clone this repository:  
    ```bash
    git clone https://github.com/passimon/shortest-route.git
-   cd shortestroute
+   cd shortest-route
    ```
 2. Serve the files locally. For example, using **http-server**:  
    ```bash
