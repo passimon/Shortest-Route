@@ -1,6 +1,6 @@
 # ShortestRoute v0.95
 
-**ShortesRoute** is an open‐source, browser-based route planner that helps you find the optimal path for two or more stops using interactive maps. It supports multiple routing profiles—walking, biking, driving—and provides detailed directions, travel times, and the ability to export your routes in various formats (PDF, GPX, etc.).
+**ShortestRoute** is an open‐source, browser-based route planner that helps you find the optimal path for two or more stops using interactive maps. It supports multiple routing profiles—walking, biking, driving—and provides detailed directions, travel times, and the ability to export your routes in various formats (PDF, GPX, etc.).
 
 ---
 
